@@ -1,6 +1,7 @@
 link to the output videos : https://epitafr-my.sharepoint.com/:f:/g/personal/aniss1_outaleb_epita_fr/IgBQnE8mnTi7TZD0mtWL2MRtAcNmmEnScBp990gGX5Zr_M4?e=SvhqIx
 # Individual Report
-
+name : Aniss Outaleb
+username : aniss1.outaleb
 ## Step 1: Initial Setup and Object Detection
 
 In the first step of the project, I focused on setting up the environment and utilizing the provided object detection code. This involved the following tasks:
